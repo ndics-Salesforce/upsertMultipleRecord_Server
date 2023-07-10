@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "upsertMultipleRecord_Server",
+  "namespace": "",
+  "sfdcLoginUrl": "https://ndics--axas02.sandbox.my.salesforce.com",
+  "sourceApiVersion": "57.0"
+}
